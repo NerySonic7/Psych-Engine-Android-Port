@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Minus No.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Missing No Appears!0000" x="0" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Appears!0001" x="0" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Appears!0002" x="570" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Appears!0003" x="570" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Appears!0004" x="1140" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Appears!0005" x="1140" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Appears!0006" x="1710" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Appears!0007" x="1710" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Appears!0008" x="2280" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Appears!0009" x="2280" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Down0000" x="570" y="430" width="836" height="475"/>
+	<SubTexture name="Missing No Down0001" x="570" y="430" width="836" height="475"/>
+	<SubTexture name="Missing No Down0002" x="1406" y="430" width="836" height="475"/>
+	<SubTexture name="Missing No Down0003" x="2242" y="430" width="836" height="475"/>
+	<SubTexture name="Missing No Down0004" x="3078" y="430" width="836" height="475"/>
+	<SubTexture name="Missing No Down0005" x="3078" y="430" width="836" height="475"/>
+	<SubTexture name="Missing No Down0006" x="3914" y="430" width="836" height="475"/>
+	<SubTexture name="Missing No Down0007" x="4750" y="430" width="836" height="475"/>
+	<SubTexture name="Missing No Down0008" x="5586" y="430" width="836" height="475"/>
+	<SubTexture name="Missing No Down0009" x="6422" y="430" width="836" height="475"/>
+	<SubTexture name="Missing No Glitch0000" x="0" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Glitch0001" x="0" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Glitch0002" x="2850" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Glitch0003" x="2850" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Glitch0004" x="3420" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Glitch0005" x="3420" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Glitch0006" x="3990" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Glitch0007" x="3990" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Glitch0008" x="4560" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Glitch0009" x="4560" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Idle Start0000" x="5130" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Idle Start0001" x="5130" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Idle Start0002" x="5700" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Idle Start0003" x="5700" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Idle Start0004" x="6270" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Idle Start0005" x="6840" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Idle Start0006" x="7410" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Idle Start0007" x="7410" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Idle Start0008" x="7410" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Idle Start0009" x="7410" y="0" width="570" height="430"/>
+	<SubTexture name="Missing No Idle Start0010" x="0" y="430" width="570" height="430"/>
+	<SubTexture name="Missing No Idle Start0011" x="0" y="430" width="570" height="430"/>
+	<SubTexture name="Missing No Left0000" x="7258" y="430" width="923" height="483"/>
+	<SubTexture name="Missing No Left0001" x="7258" y="430" width="923" height="483"/>
+	<SubTexture name="Missing No Left0002" x="0" y="913" width="923" height="483"/>
+	<SubTexture name="Missing No Left0003" x="923" y="913" width="923" height="483"/>
+	<SubTexture name="Missing No Left0004" x="1846" y="913" width="923" height="483"/>
+	<SubTexture name="Missing No Left0005" x="1846" y="913" width="923" height="483"/>
+	<SubTexture name="Missing No Left0006" x="2769" y="913" width="923" height="483"/>
+	<SubTexture name="Missing No Left0007" x="3692" y="913" width="923" height="483"/>
+	<SubTexture name="Missing No Left0008" x="4615" y="913" width="923" height="483"/>
+	<SubTexture name="Missing No Left0009" x="4615" y="913" width="923" height="483"/>
+	<SubTexture name="Missing No Right0000" x="5538" y="913" width="1336" height="484"/>
+	<SubTexture name="Missing No Right0001" x="5538" y="913" width="1336" height="484"/>
+	<SubTexture name="Missing No Right0002" x="0" y="1397" width="1336" height="484"/>
+	<SubTexture name="Missing No Right0003" x="1336" y="1397" width="1336" height="484"/>
+	<SubTexture name="Missing No Right0004" x="2672" y="1397" width="1336" height="484"/>
+	<SubTexture name="Missing No Right0005" x="2672" y="1397" width="1336" height="484"/>
+	<SubTexture name="Missing No Right0006" x="4008" y="1397" width="1336" height="484"/>
+	<SubTexture name="Missing No Right0007" x="5344" y="1397" width="1336" height="484"/>
+	<SubTexture name="Missing No Right0008" x="6680" y="1397" width="1336" height="484"/>
+	<SubTexture name="Missing No Right0009" x="6680" y="1397" width="1336" height="484"/>
+	<SubTexture name="Missing No Up0000" x="0" y="1881" width="570" height="1013"/>
+	<SubTexture name="Missing No Up0001" x="0" y="1881" width="570" height="1013"/>
+	<SubTexture name="Missing No Up0002" x="570" y="1881" width="570" height="1013"/>
+	<SubTexture name="Missing No Up0003" x="1140" y="1881" width="570" height="1013"/>
+	<SubTexture name="Missing No Up0004" x="1710" y="1881" width="570" height="1013"/>
+	<SubTexture name="Missing No Up0005" x="1710" y="1881" width="570" height="1013"/>
+	<SubTexture name="Missing No Up0006" x="2280" y="1881" width="570" height="1013"/>
+	<SubTexture name="Missing No Up0007" x="2850" y="1881" width="570" height="1013"/>
+	<SubTexture name="Missing No Up0008" x="3420" y="1881" width="570" height="1013"/>
+	<SubTexture name="Missing No Up0009" x="3420" y="1881" width="570" height="1013"/>
+	<SubTexture name="Missing No idle0000" x="3990" y="1881" width="576" height="459"/>
+	<SubTexture name="Missing No idle0001" x="3990" y="1881" width="576" height="459"/>
+	<SubTexture name="Missing No idle0002" x="4566" y="1881" width="576" height="459"/>
+	<SubTexture name="Missing No idle0003" x="4566" y="1881" width="576" height="459"/>
+	<SubTexture name="Missing No idle0004" x="5142" y="1881" width="576" height="459"/>
+	<SubTexture name="Missing No idle0005" x="5142" y="1881" width="576" height="459"/>
+	<SubTexture name="Missing No idle0006" x="5718" y="1881" width="576" height="459"/>
+	<SubTexture name="Missing No idle0007" x="5718" y="1881" width="576" height="459"/>
+	<SubTexture name="Missing No idle0008" x="6294" y="1881" width="576" height="459"/>
+	<SubTexture name="Missing No idle0009" x="6294" y="1881" width="576" height="459"/>
+	<SubTexture name="Missing No idle0010" x="6870" y="1881" width="576" height="459"/>
+	<SubTexture name="Missing No idle0011" x="6870" y="1881" width="576" height="459"/>
+	<SubTexture name="Missing No idle0012" x="7446" y="1881" width="576" height="459"/>
+	<SubTexture name="Missing No idle0013" x="7446" y="1881" width="576" height="459"/>
+</TextureAtlas>

@@ -1,0 +1,141 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-312,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "psyshock",
+			"indices": [],
+			"name": "Psyshock Full"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-940,
+				190
+			],
+			"anim": "psyshock particle",
+			"fps": 24,
+			"name": "Full Psyshock Particle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				-420
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Missing No Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				157
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Missing No Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				474,
+				-371
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Missing No Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				122,
+				-367
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Missing No Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				125,
+				-390
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Missing No idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				120,
+				-420
+			],
+			"anim": "appear",
+			"fps": 24,
+			"name": "Missing No Appears!",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				120,
+				-420
+			],
+			"anim": "glitch",
+			"fps": 24,
+			"name": "Missing No Glitch",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				120,
+				-420
+			],
+			"anim": "start",
+			"fps": 24,
+			"name": "Missing No Idle Start",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Minus_No",
+	"position": [
+		-60,
+		-80
+	],
+	"healthicon": "missingno",
+	"flip_x": false,
+	"healthbar_colors": [
+		128,
+		112,
+		152
+	],
+	"camera_position": [
+		-310,
+		570
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
